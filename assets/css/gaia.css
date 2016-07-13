@@ -3726,3 +3726,18 @@ body {
     padding: 0;
   }
 }
+
+#simg{
+  height: 50%;
+  width: 50%;
+}
+
+#simg1{
+  height: 50%;
+  width: 45%;
+}
+
+#simg2{
+  height: 100%;
+  width: 90%;
+}
